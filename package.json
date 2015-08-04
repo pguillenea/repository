@@ -7,7 +7,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/christkv/myfirstproject.git"
+    "url": "git:///github.com/pguillenea/repository.git"
+    
   },
   "dependencies": {
     "body-parser": "~1.13.2",
