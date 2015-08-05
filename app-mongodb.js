@@ -66,5 +66,10 @@ var findDocuments = function(db, callback) {
     console.log("Found the following records");
     console.dir(docs);
     callback(docs);
+    callback(docs);
+    callback(docs);
+    callback(docs);
+    callback(docs);
+    callback(docs);
   });      
 };
